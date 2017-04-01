@@ -108,5 +108,8 @@ public class Model {
         
     }
     
+    public Monster breed(Monster parent1, Monster parent2) {
+        return parent1;
+    }   
     
 }
